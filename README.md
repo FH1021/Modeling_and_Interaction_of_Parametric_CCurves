@@ -1,0 +1,2 @@
+# Modeling_and_Interaction_of_Parametric_CCurves
+这是一个用来展示各种形式的参数曲线的创建与变换的应用程序
